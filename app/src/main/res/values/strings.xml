@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindByMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="YouMuchTurnOnAuthen">You much allow</string>
+</resources>
